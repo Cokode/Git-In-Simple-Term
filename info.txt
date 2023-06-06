@@ -1,0 +1,9 @@
+To effectively use Git, it is recommended to familiarize yourself with useful terminal commands. Here is a summarized and improved version of the statement:
+
+1. Open your terminal: On Mac OS, press Command + Spacebar, type "Terminal," and hit Enter. This will open the terminal.
+
+2. Navigate to the desired location for your project: If you want to create a working directory on your desktop, use the "cd" command followed by "Desktop" (e.g., `cd Desktop`) and press Enter.
+
+3. Create a working directory: Use the "mkdir" command followed by the desired directory name (e.g., `mkdir CollinsApp`) and press Enter. This will create a folder named "CollinsApp" on your desktop.
+
+By following these steps, you will be able to open your terminal, navigate to the desired location, and create a working directory for your Git project.
