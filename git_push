@@ -1,0 +1,17 @@
+To make your first push to a remote GitHub repository from the terminal, follow these simplified instructions:
+
+1. Create or update files: Use the `touch` command to create a new file (e.g., `touch server.js`) or modify existing files from outside the terminal.
+
+2. Add files to the staging area: Use `git add <filename>` to add specific files (e.g., `git add server.js`) or use `git add .` to add all modified files to the staging area.
+
+3. Commit the changes: Execute `git commit -m "<commit_message>"` to commit the staged changes. Replace `<commit_message>` with a descriptive message summarizing your changes (e.g., `git commit -m "Initial commit"`).
+
+Before you start pushing your commits to GitHub you must connect your local machine to GitHub.
+
+4. Connect to the remote repository: Use `git remote add origin <remote_repository_URL>` to connect your local repository to the remote GitHub repository. Replace `<remote_repository_URL>` with the URL of your GitHub repository. (e.g., git remote add origin https://github.com/Cokode/Git-In-Sinple-Term.git).
+
+5. Push your changes to : Run `git push -u origin <branch_name>` to push your commits to the remote repository. Replace `<branch_name>` with the branch you want to push (usually "main" or "master"). (e.g., git push -u origin main).
+
+Hurray, You have successfully pushed your project to a remote git repository.
+
+After completing these steps, your changes will be pushed to the remote GitHub repository. Remember to regularly commit and push your changes to keep your repository up to date and collaborate effectively.
