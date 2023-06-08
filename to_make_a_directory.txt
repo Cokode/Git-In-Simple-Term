@@ -1,4 +1,8 @@
-To effectively use Git, it is recommended to familiarize yourself with useful terminal commands. Here is a summarized and improved version of the statement:
+To effectively use Git, it is recommended to familiarize yourself with useful terminal commands.
+
+This is a link to learn Terminal Commands for Mac OS users https://github.com/0nn0/terminal-mac-cheatsheet#english-version
+For window users click on this link. althernative link. https://github.com/0nn0/terminal-mac-cheatsheet#english-version
+Now lets go..
 
 1. Open your terminal: On Mac OS, press Command + Spacebar, type "Terminal," and hit Enter. This will open the terminal.
 
@@ -6,4 +10,10 @@ To effectively use Git, it is recommended to familiarize yourself with useful te
 
 3. Create a working directory: Use the "mkdir" command followed by the desired directory name (e.g., `mkdir CollinsApp`) and press Enter. This will create a folder named "CollinsApp" on your desktop.
 
-By following these steps, you will be able to open your terminal, navigate to the desired location, and create a working directory for your Git project.
+4 After creating your project directory, initialize it as a Git directory. This enables Git to track changes and provides access to its powerful features for project management.
+
+To initialize the directory as a Git repository, open the terminal and navigate to your project folder. Use the command `git init` to initialize Git within that directory.
+
+Once initialized, Git will start monitoring the directory for any changes you make to the files. You can then leverage Git's capabilities to effectively track and manage your project.
+
+By following these steps, you will successfully initialize your project directory as a Git repository, allowing you to take advantage of Git's powerful features for version control and project management.
